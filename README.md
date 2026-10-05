@@ -70,7 +70,7 @@ GEMINI_API_KEY=your_actual_gemini_api_key_here
 
 ### Step 1: Ingesting Target Documents
 
-1. Drop your sample PDF or text documentation directly inside the `data/` directory.
+1. Drop your PDF documents directly inside the `data/` directory.
 2. Fire up the paced indexing pipeline from your terminal:
 
 ```bash
